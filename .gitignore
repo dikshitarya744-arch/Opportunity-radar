@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+config.json
+radar.db
+*.log
+__pycache__/
+.venv/
+venv/
+.idea/
+.vscode/

@@ -1,0 +1,8 @@
+{
+  "skills": ["python", "machine learning", "embedded", "robotics"],
+  "interests": ["AI", "drones", "space", "web3"],
+  "goals": "cash prizes above $500, internships, remote jobs",
+  "min_score": 40,
+  "interval_minutes": 60,
+  "max_alerts_per_scan": 10
+}
